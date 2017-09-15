@@ -11,5 +11,19 @@ namespace BuildAZoo
 
         public abstract void SleepHours();
 
+        public void DoesWalk()
+        {
+            Console.WriteLine("This animal walks!");
+        }
+
+        public void DoesBreath()
+        {
+            Console.WriteLine("This animal breaths!");
+        }
+
+        public void DoesEat()
+        {
+            Console.WriteLine("This animal eats!");
+        }
     }
 }
