@@ -1,0 +1,11 @@
+C:\Users\akure\Source\Repos\BuldingAZoo\lab04-brandon\BuildAZoo\BuildAZoo\bin\Debug\netcoreapp2.0\BuildAZoo.deps.json
+C:\Users\akure\Source\Repos\BuldingAZoo\lab04-brandon\BuildAZoo\BuildAZoo\bin\Debug\netcoreapp2.0\BuildAZoo.runtimeconfig.json
+C:\Users\akure\Source\Repos\BuldingAZoo\lab04-brandon\BuildAZoo\BuildAZoo\bin\Debug\netcoreapp2.0\BuildAZoo.runtimeconfig.dev.json
+C:\Users\akure\Source\Repos\BuldingAZoo\lab04-brandon\BuildAZoo\BuildAZoo\bin\Debug\netcoreapp2.0\BuildAZoo.dll
+C:\Users\akure\Source\Repos\BuldingAZoo\lab04-brandon\BuildAZoo\BuildAZoo\bin\Debug\netcoreapp2.0\BuildAZoo.pdb
+C:\Users\akure\Source\Repos\BuldingAZoo\lab04-brandon\BuildAZoo\BuildAZoo\obj\Debug\netcoreapp2.0\BuildAZoo.csprojResolveAssemblyReference.cache
+C:\Users\akure\Source\Repos\BuldingAZoo\lab04-brandon\BuildAZoo\BuildAZoo\obj\Debug\netcoreapp2.0\BuildAZoo.csproj.CoreCompileInputs.cache
+C:\Users\akure\Source\Repos\BuldingAZoo\lab04-brandon\BuildAZoo\BuildAZoo\obj\Debug\netcoreapp2.0\BuildAZoo.AssemblyInfoInputs.cache
+C:\Users\akure\Source\Repos\BuldingAZoo\lab04-brandon\BuildAZoo\BuildAZoo\obj\Debug\netcoreapp2.0\BuildAZoo.AssemblyInfo.cs
+C:\Users\akure\Source\Repos\BuldingAZoo\lab04-brandon\BuildAZoo\BuildAZoo\obj\Debug\netcoreapp2.0\BuildAZoo.dll
+C:\Users\akure\Source\Repos\BuldingAZoo\lab04-brandon\BuildAZoo\BuildAZoo\obj\Debug\netcoreapp2.0\BuildAZoo.pdb
