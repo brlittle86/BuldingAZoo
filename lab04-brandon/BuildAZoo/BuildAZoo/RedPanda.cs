@@ -13,7 +13,7 @@ namespace BuildAZoo
 
         public override void SleepHours()
         {
-            Console.WriteLine("The Red Panda is a daytime mammal, and generally sleeps at night.");
+            Console.WriteLine($"{Name} is a daytime mammal, and generally sleeps at night.");
         }
 
         public void LivesInChina()
@@ -23,12 +23,12 @@ namespace BuildAZoo
 
         public void AtRisk()
         {
-            Console.WriteLine("Due to having an adorable, warm, bushy tail, the Red Panda is at risk for becoming endangered.");
+            Console.WriteLine($"Due to having an adorable, warm, bushy tail, {Name} is at risk for becoming endangered.");
         }
 
         public void Chitter()
         {
-            Console.WriteLine("The Red Panda makes a chittering call when communicating.");
+            Console.WriteLine($"{Name} makes a chittering call when communicating.");
         }
 
         public override void IsAdorable()

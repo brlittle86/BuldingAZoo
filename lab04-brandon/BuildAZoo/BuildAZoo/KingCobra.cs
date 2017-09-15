@@ -13,22 +13,22 @@ namespace BuildAZoo
 
         public override void SleepHours()
         {
-            Console.WriteLine("King Cobra are generally diurnal.");
+            Console.WriteLine($"{Name} is generally diurnal.");
         }
 
         public void IntimidatingHood()
         {
-            Console.WriteLine("The King Cobra's hood is meant to make it look bigger and scarier to predators.");
+            Console.WriteLine($"{Name}'s hood is meant to make them look bigger and scarier to predators.");
         }
 
         public void IsVenomous()
         {
-            Console.WriteLine("The King Cobra has a potent venom it injects into prey via needle-like fangs.");
+            Console.WriteLine($"{Name} has a potent venom they inject into prey via needle-like fangs.");
         }
 
         public void IsFast()
         {
-            Console.WriteLine("Despite having no legs, the King Cobra can achieve speeds above 12mph.");
+            Console.WriteLine($"Despite having no legs, {Name} can achieve speeds above 12mph.");
         }
     }
 }

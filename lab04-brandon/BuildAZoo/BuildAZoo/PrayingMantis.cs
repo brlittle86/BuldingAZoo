@@ -13,12 +13,12 @@ namespace BuildAZoo
 
         public override void SleepHours()
         {
-            Console.WriteLine("The Praying Mantis is primarily diurnal.");
+            Console.WriteLine($"{Name} is primarily diurnal.");
         }
 
         public void DeadlyFemale()
         {
-            Console.WriteLine("The female Praying Mantis kills and eats her mate after mating.");
+            Console.WriteLine($"{Name} kills and eats her mate after mating.");
         }
 
         public void FastAttack()
@@ -33,7 +33,7 @@ namespace BuildAZoo
 
         public override void LegCount()
         {
-            Console.WriteLine("Each Praying Mantis has 6 legs and 2 wings!");
+            Console.WriteLine($"{Name} has 6 legs and 2 wings!");
         }
     }
 }

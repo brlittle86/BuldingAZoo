@@ -13,17 +13,17 @@ namespace BuildAZoo
 
         public override void SleepHours()
         {
-            Console.WriteLine("Tigers are nocturnal ambush hunters.");
+            Console.WriteLine($"{Name} is a nocturnal ambush hunter.");
         }
 
         public void HasStripes()
         {
-            Console.WriteLine("The tiger has stripes to aid in camoflage and hunting.");
+            Console.WriteLine($"{Name} has stripes to aid in camoflage and hunting.");
         }
 
         public void IsABigCat()
         {
-            Console.WriteLine("Like the lion, the tiger is a big cat - often weighing more than 500 pounds.");
+            Console.WriteLine($"Like the lion, {Name} is a big cat - often weighing more than 500 pounds.");
         }
 
         public void SmallLitters()

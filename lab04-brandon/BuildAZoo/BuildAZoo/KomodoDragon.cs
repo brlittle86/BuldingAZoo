@@ -13,7 +13,7 @@ namespace BuildAZoo
 
         public override void SleepHours()
         {
-            Console.WriteLine("Komodo Dragons are mostly diurnal.");
+            Console.WriteLine($"{Name} are mostly diurnal.");
         }
 
         public void VenomIsSaliva()
@@ -28,7 +28,7 @@ namespace BuildAZoo
 
         public void RemoteHome()
         {
-            Console.WriteLine("The Komodo Dragon comes from a small set of islands in the southeast Pacific Ocean.");
+            Console.WriteLine($"{Name} comes from a small set of islands in the southeast Pacific Ocean.");
         }
     }
 }

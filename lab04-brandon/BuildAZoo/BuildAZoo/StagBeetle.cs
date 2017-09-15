@@ -13,12 +13,12 @@ namespace BuildAZoo
 
         public override void SleepHours()
         {
-            Console.WriteLine("Stag Beetles are generally diurnal.");
+            Console.WriteLine($"{Name} is generally diurnal.");
         }
 
         public void HasHorns()
         {
-            Console.WriteLine("The Stag Beetle is distinguished by its signature horns.");
+            Console.WriteLine($"{Name} is distinguished by its signature horns.");
         }
 
         public void BlackColor()
@@ -28,12 +28,12 @@ namespace BuildAZoo
 
         public void GreatForParties()
         {
-            Console.WriteLine("No Stag party is complete without Stag Beetles.");
+            Console.WriteLine($"No Stag party is complete without {Name}.");
         }
 
         public override void LegCount()
         {
-            Console.WriteLine("The Stag Beetle has 6 legs.");
+            Console.WriteLine($"{Name} has 6 legs.");
         }
     }
 }

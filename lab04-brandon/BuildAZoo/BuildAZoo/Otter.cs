@@ -13,7 +13,7 @@ namespace BuildAZoo
 
         public override void SleepHours()
         {
-            Console.WriteLine("Otters tend to be nocturnal, but may be diurnal.");
+            Console.WriteLine($"{Name} tends to be nocturnal, but may be diurnal from time to time.");
         }
 
         public void IsAmphibious()
@@ -23,7 +23,7 @@ namespace BuildAZoo
 
         public void IsIntelligent()
         {
-            Console.WriteLine("Otters display high level puzzle solving intelligence and communication skills.");
+            Console.WriteLine($"{Name} displays high level puzzle solving intelligence and communication skills.");
         }
 
         public void FloatAndSleep()
