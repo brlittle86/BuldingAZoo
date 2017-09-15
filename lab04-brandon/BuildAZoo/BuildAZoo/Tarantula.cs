@@ -18,7 +18,12 @@ namespace BuildAZoo
 
         public void AmbushHunter()
         {
-            Console.WriteLine("The Tarantual is an ambush hunter.");
+            Console.WriteLine("The Tarantula is an ambush hunter.");
+        }
+
+        public void LiquidDiet()
+        {
+            Console.WriteLine("Like all spiders, the Tarantula liquefies the insides of its prey and drinks it.");
         }
     }
 }
