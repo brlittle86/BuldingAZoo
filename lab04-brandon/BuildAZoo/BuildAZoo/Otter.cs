@@ -6,6 +6,11 @@ namespace BuildAZoo
 {
     class Otter : Mammal
     {
+        public Otter(string name)
+        {
+            Name = name;
+        }
+
         public override void SleepHours()
         {
             Console.WriteLine("Otters tend to be nocturnal, but may be diurnal.");

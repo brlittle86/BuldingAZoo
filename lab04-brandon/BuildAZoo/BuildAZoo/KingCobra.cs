@@ -6,6 +6,11 @@ namespace BuildAZoo
 {
     class KingCobra : Reptile
     {
+        public KingCobra(string name)
+        {
+            Name = name;
+        }
+
         public override void SleepHours()
         {
             Console.WriteLine("King Cobra are generally diurnal.");

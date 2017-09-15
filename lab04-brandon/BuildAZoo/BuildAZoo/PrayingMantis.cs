@@ -6,6 +6,11 @@ namespace BuildAZoo
 {
     class PrayingMantis : Insect
     {
+        public PrayingMantis(string name)
+        {
+            Name = name;
+        }
+
         public override void SleepHours()
         {
             Console.WriteLine("The Praying Mantis is primarily diurnal.");

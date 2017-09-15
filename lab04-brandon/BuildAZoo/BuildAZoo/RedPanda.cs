@@ -6,6 +6,11 @@ namespace BuildAZoo
 {
     class RedPanda : Mammal
     {
+        public RedPanda(string name)
+        {
+            Name = name;
+        }
+
         public override void SleepHours()
         {
             Console.WriteLine("The Red Panda is a daytime mammal, and generally sleeps at night.");

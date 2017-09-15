@@ -6,6 +6,11 @@ namespace BuildAZoo
 {
     class KomodoDragon : Reptile
     {
+        public KomodoDragon(string name)
+        {
+            Name = name;
+        }
+
         public override void SleepHours()
         {
             Console.WriteLine("Komodo Dragons are mostly diurnal.");

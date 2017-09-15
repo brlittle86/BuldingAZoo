@@ -6,6 +6,11 @@ namespace BuildAZoo
 {
     class StagBeetle : Insect
     {
+        public StagBeetle(string name)
+        {
+            Name = name;
+        }
+
         public override void SleepHours()
         {
             Console.WriteLine("Stag Beetles are generally diurnal.");

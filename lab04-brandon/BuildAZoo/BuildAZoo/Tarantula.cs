@@ -6,6 +6,11 @@ namespace BuildAZoo
 {
     class Tarantula : Insect
     {
+        public Tarantula(string name)
+        {
+            Name = name;
+        }
+
         public override void SleepHours()
         {
             Console.WriteLine("Tarantulas tend to be diurnal.");

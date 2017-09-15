@@ -6,6 +6,11 @@ namespace BuildAZoo
 {
     class Tiger : Mammal
     {
+        public Tiger(string name)
+        {
+            Name = name;
+        }
+
         public override void SleepHours()
         {
             Console.WriteLine("Tigers are nocturnal ambush hunters.");

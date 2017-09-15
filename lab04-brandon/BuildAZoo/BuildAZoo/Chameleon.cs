@@ -6,6 +6,11 @@ namespace BuildAZoo
 {
     class Chameleon : Reptile
     {
+        public Chameleon(string name)
+        {
+            Name = name;
+        }
+
         public override void SleepHours()
         {
             Console.WriteLine("The Chameleon is generally diurnal.");
