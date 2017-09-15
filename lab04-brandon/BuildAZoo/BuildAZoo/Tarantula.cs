@@ -13,7 +13,7 @@ namespace BuildAZoo
 
         public void Arachnid()
         {
-            Console.WriteLine("The Tarantula has 8 legs and spins a web.");
+            Console.WriteLine("The Tarantula has 8 eyes and spins a web.");
         }
 
         public void AmbushHunter()
@@ -24,6 +24,11 @@ namespace BuildAZoo
         public void LiquidDiet()
         {
             Console.WriteLine("Like all spiders, the Tarantula liquefies the insides of its prey and drinks it.");
+        }
+
+        public override void LegCount()
+        {
+            Console.WriteLine("The Tarantula has 8 legs.");
         }
     }
 }

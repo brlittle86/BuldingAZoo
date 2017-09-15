@@ -25,5 +25,10 @@ namespace BuildAZoo
         {
             Console.WriteLine("No Stag party is complete without Stag Beetles.");
         }
+
+        public override void LegCount()
+        {
+            Console.WriteLine("The Stag Beetle has 6 legs.");
+        }
     }
 }

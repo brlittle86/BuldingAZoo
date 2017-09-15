@@ -25,5 +25,10 @@ namespace BuildAZoo
         {
             Console.WriteLine("It gets its name from how it appears to be praying due to the position of its forelimbs.");
         }
+
+        public override void LegCount()
+        {
+            Console.WriteLine("Each Praying Mantis has 6 legs and 2 wings!");
+        }
     }
 }

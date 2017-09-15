@@ -6,6 +6,8 @@ namespace BuildAZoo
 {
     abstract class Insect : Animal
     {
+        public abstract void LegCount();
+
         public void HasCompoundEyes()
         {
             Console.WriteLine("This animal has compound eyes.");
