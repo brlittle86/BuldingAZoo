@@ -25,5 +25,10 @@ namespace BuildAZoo
         {
             Console.WriteLine("Otters often sleep while floating on their backs in the water.");
         }
+
+        public override void IsAdorable()
+        {
+            Console.WriteLine("Super adorable babies, adorable adults.");
+        }
     }
 }

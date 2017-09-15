@@ -25,5 +25,10 @@ namespace BuildAZoo
         {
             Console.WriteLine("The Red Panda makes a chittering call when communicating.");
         }
+
+        public override void IsAdorable()
+        {
+            Console.WriteLine("Adorableness levels are at maximum.");
+        }
     }
 }

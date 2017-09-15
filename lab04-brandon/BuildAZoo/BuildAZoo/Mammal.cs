@@ -6,6 +6,8 @@ namespace BuildAZoo
 {
     abstract class Mammal : Animal
     {
+        public abstract void IsAdorable();
+
         public void HasFur()
         {
             Console.WriteLine("This animal has fur!");

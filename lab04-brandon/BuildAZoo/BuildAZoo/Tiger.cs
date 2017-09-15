@@ -25,5 +25,10 @@ namespace BuildAZoo
         {
             Console.WriteLine("Tigers tend to have small litters of one to three kittens.");
         }
+
+        public override void IsAdorable()
+        {
+            Console.WriteLine("Kittens are cute, adults are not.");
+        }
     }
 }
